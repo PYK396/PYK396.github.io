@@ -1,0 +1,74 @@
+html {
+    height: 100%;
+    background-image: url("beergif.gif");
+  }
+  body {
+     width: 80%;
+     margin: 15%;
+     height: 100%;
+     font-family: Georgia, 'Times New Roman', Times, serif;    
+     color:white;         
+  }
+  h1 { 
+      font-display: refs
+      font-family: monospace;
+  }
+ 
+  header {
+      background-color: rgb(3, 19, 112) ;
+      padding-left: 20px;
+      Margin: 50px;
+      font-size: 20px;
+      border: 10px solid black;
+      display:;
+  }
+  nav {
+      float: center;
+      width: 100%;
+  nav ul {
+      padding:;
+      float: center;
+      border-bottom: ;
+      list-style-type: none;
+  }
+  nav li {
+      float: left;
+  }
+  nav li a {
+      display: block;
+      height: 25px;
+      padding: 12px 18px 8px 18px;
+      vertical-align: middle;
+  }
+  a:hover {
+        text-decoration: overline;
+  }
+  section {
+      width: 73%;
+      display: inline-block;
+      float: left;
+  }
+  aside {
+      width: 100%;
+      display: inline-block;
+      background-color:;
+      padding:;
+      min-height: 100%;
+  }
+  aside ul {
+      list-style-type: none;
+  }
+  footer {
+      width: 790px;
+      background-color:;
+      color:;
+      clear: both;
+      display: block;
+  }
+  img { 
+      float: clear;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 40%;
+  }
