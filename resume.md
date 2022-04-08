@@ -1,10 +1,10 @@
 # Peter Kidane
 
-your.name@example.com
+peterk36@uw.edu
 
 http://www.example.com
 
-http://www.linkedin.com/in/yourname
+http://www.linkedin.com/in/peterkidane
 
 # Summary
 
